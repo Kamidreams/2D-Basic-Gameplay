@@ -114,7 +114,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topBound: 15
-  lowerBound: 0
+  lowerBound: -10
 --- !u!50 &1133012389
 Rigidbody2D:
   serializedVersion: 4
